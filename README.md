@@ -12,6 +12,6 @@ To install packages using `pip3`, you would typically use the command:
 pip3 install python3
 ```
 
-Replace `package_name` with the name of the package you want to install.
+Replace `python3 , pip3 -r install requirements.txt` with the name of the package you want to install.
 
 Keep in mind the ethical and legal considerations of creating ransomware. It's highly unethical and often illegal to create and distribute ransomware, as it can cause significant harm to individuals and organizations. Instead, consider using your programming skills for constructive and ethical purposes.
